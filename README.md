@@ -18,7 +18,7 @@ The purpose of this App is to show the use of:
 * Styling a React-Native App
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TtCUO0rzKsU)
 
 # Development Environment
 
